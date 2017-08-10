@@ -1,0 +1,4 @@
+The source of these sprites came form the default phaser tutorial from the official Phaser.io website.
+http://phaser.io/tutorials/making-your-first-phaser-game
+
+With the exception of the bird (bird.png), which I created myself.
